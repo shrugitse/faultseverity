@@ -25,4 +25,4 @@ Note:- Pick a CUDA version matching your driver for the GPU.
 
 Dataset Source: The datasets used were obtained from **"https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction**".
 
-Source Code: The experiments conducted are in the **src** folder. 
+Source Code: The experiments conducted are in the **src.rar** folder. 
